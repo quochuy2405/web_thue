@@ -36,7 +36,7 @@ body {
 	background-color: rgb(164, 155, 145);
 
 	text-transform: uppercase;
-	font-size: 0.9rem;
+	font-size: 14px;
 	font-weight: 600;
 	color: white;
 	text-align: center;
@@ -80,7 +80,7 @@ body {
 
 .nav-links .link {
 	text-transform: uppercase;
-	font-size: 0.9rem;
+	font-size: 14px;
 	font-weight: 400;
 	text-rendering: optimizeLegibility;
 	color: rgb(74, 74, 74);
@@ -156,12 +156,12 @@ body {
 .product .product-meta .title {
 	text-transform: uppercase;
 	font-weight: 500;
-	font-size: 0.8rem;
+	font-size: 12px;
 	padding: 0 10px;
 }
 .product .product-meta .price {
 	opacity: 0.8;
-	font-size: 0.8rem;
+	font-size: 12px;
 	color: rgb(238, 124, 124);
 }
 .product .product-img {
@@ -186,13 +186,14 @@ body {
 	height: 300px;
 	border-top: 1px solid gainsboro;
 	padding: 80px 30px;
+	margin-top: 100px;
 
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
 }
 .footer .title-form {
-	font-size: 1rem;
+	font-size: 14px;
 	font-weight: 300;
 	opacity: 0.9;
 }
@@ -205,7 +206,7 @@ body {
 }
 
 .footer .description-form {
-	font-size: 0.8rem;
+	font-size: 12px;
 	font-weight: 300;
 	opacity: 0.9;
 }
@@ -220,7 +221,7 @@ body {
 .footer .footer-feedback input {
 	border: none;
 	outline: none;
-	font-size: 0.8rem;
+	font-size: 12px;
 }
 .footer .footer-feedback input::placeholder {
 	color: black;
@@ -238,12 +239,12 @@ body {
 }
 .footer .footer-content b {
 	font-weight: 600;
-	font-size: 1.2rem;
+	font-size: 20px;
 	text-transform: uppercase;
 }
 .footer .footer-content p {
 	opacity: 0.8;
-	font-size: 0.8rem;
+	font-size: 12px;
 	font-weight: 400;
 }
 .footer .footer-content p:hover {

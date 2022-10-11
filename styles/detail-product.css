@@ -24,12 +24,12 @@
 	flex-direction: column;
 }
 .product-title {
-	font-size: 1.5rem;
+	font-size: 24px;
 	text-transform: uppercase;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .product-price {
-	font-size: 1.3rem;
+	font-size: 30px;
 	color: rgb(163, 87, 48);
 }
 
