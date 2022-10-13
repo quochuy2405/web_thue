@@ -47,6 +47,20 @@
 	align-items: center;
 	transition: all linear 0.2s;
 }
+/* table */
+#table-price {
+	border-collapse: collapse;
+	width: 330px;
+	text-align: left;
+}
+#table-price th {
+	font-weight: 600;
+}
+
+#table-price td {
+	font-style: italic;
+	font-size: 14px;
+}
 
 .btn-add:hover {
 	transform: scale(1.02);
