@@ -33,20 +33,6 @@
 	color: rgb(163, 87, 48);
 }
 
-.btn-add {
-	width: 330px;
-	height: 40px;
-	background-color: rgb(116, 90, 90);
-	color: white;
-	font-weight: 500;
-	margin: 20px 0;
-	cursor: pointer;
-
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	transition: all linear 0.2s;
-}
 /* table */
 #table-price {
 	border-collapse: collapse;
@@ -60,9 +46,4 @@
 #table-price td {
 	font-style: italic;
 	font-size: 14px;
-}
-
-.btn-add:hover {
-	transform: scale(1.02);
-	transition: all linear 0.2s;
 }
