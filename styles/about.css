@@ -130,11 +130,6 @@ body {
 	transition: all linear 0.2s;
 }
 
-.products .product:hover {
-	transform: scale(1.05);
-	transition: all linear 0.2s;
-}
-
 .product .product-meta {
 	text-align: center;
 	display: flex;
@@ -143,9 +138,6 @@ body {
 
 	color: gray;
 	text-decoration: none;
-}
-.product .product-meta:hover {
-	color: black;
 }
 
 .product .product-meta .title {
