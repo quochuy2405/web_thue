@@ -124,7 +124,7 @@ body {
 	width: 20%;
 	min-width: 140px;
 	height: 300px;
-	box-shadow: 0 0 6px 0px gainsboro;
+	box-shadow: 0 0 6px 0px #dcdcdc;
 	border-radius: 10px;
 	overflow: hidden;
 	transition: all linear 0.2s;
@@ -136,7 +136,7 @@ body {
 	flex-direction: column;
 	gap: 5px;
 
-	color: gray;
+	color: #808080;
 	text-decoration: none;
 }
 
@@ -171,7 +171,7 @@ body {
 .footer {
 	width: 100%;
 	height: 300px;
-	border-top: 1px solid gainsboro;
+	border-top: 1px solid #dcdcdc;
 	padding: 80px 30px;
 	margin-top: 100px;
 
@@ -263,7 +263,7 @@ body {
 
 	height: 70vh;
 	width: 100%;
-	background-color: rgb(164, 164, 164);
+	background-color: #a4a4a4;
 }
 
 .bg-banner {
